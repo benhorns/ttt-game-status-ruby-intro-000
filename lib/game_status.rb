@@ -52,7 +52,7 @@ def winner (board)
 
 if index = won?(board)
     board [index.first]
-binding.pry
+#binding.pry
 end
 end
 #binding.pry
